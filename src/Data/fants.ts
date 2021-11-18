@@ -94,7 +94,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "24",
-      "fantText": "Show everyone what color your underwear is. If any of the players have this color in any peace of their clothes, he\\she must remove one piece of clothes each"
+      "fantText": "Show everyone what color your underwear is. If any of the players have this color in any peace of their clothes, he/she must remove one piece of clothes each"
     },
     {
       "id": "25",
