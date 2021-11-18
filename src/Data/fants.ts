@@ -2,227 +2,211 @@ export const fantsData = Object.freeze(
   [
     {
       "id": "1",
-      "fantText": "Flip a coin. Heads - take off one piece of clothing. Tails - get one piece of clothing back. If you are fully clothed - do not take one piece of clothing next time you're required to do so"
+      "fantText": "Swap your underwear with the player of the opposite sex to your right. Stay this way until it's your turn to take the underwear off"
     },
     {
       "id": "2",
-      "fantText": "Put red lipstick on your lips and give a passionate kiss on the neck of the player of the opposite sex to your right. Make sure you leave a mark"
+      "fantText": "Choose any girl who will sit on your lap and simulate a passionate sexual act in a cowgirl position for a minute. None of you should be wearing underwear!"
     },
     {
       "id": "3",
-      "fantText": "Open the fridge - find, mix and eat two kinds of food with incompatible flavors. For example, strawberries and mushrooms, pickles and jam, sour cream and ketchup. As an encouragement - get back one piece of previously removed clothing"
+      "fantText": "Dance a slow dance with two players of the opposite sex - to your left and right.\nDuring the dance, partners take off your clothes. Only they are allowed to touch you"
     },
     {
       "id": "4",
-      "fantText": "If you are wearing outerwear, take the top off for one round. \nLie on the couch and let the player of the opposite sex on your left drip five drops of molten candle wax onto your back. For five more drops - get back one piece of clothing "
+      "fantText": "Each player of the opposite sex removes one piece of your clothing, including underwear, while kissing each exposed body part"
     },
     {
       "id": "5",
-      "fantText": "Lie on the couch - a player of the opposite sex gives you a full body massage for three minutes. The player on your right hand decides how many items of clothing you need to take off for this round. For every piece of clothing you take off, he/she gets one removed piece of clothing back"
+      "fantText": "Ask the opposite sex player on the right to demonstrate three of their favorite sex positions. It is advisable to take off all your clothes before that, for complete clarity. Take your time, try to make the demonstration detailed and believable - for each pose you have from 30 seconds to a minute"
     },
     {
       "id": "6",
-      "fantText": "Massage the shoulders of the player to your right for 30 seconds, after taking off his/her outerwear with your own hands. When finished, he/she can get back the items removed by you + one more piece of clothing if it was previously removed"
+      "fantText": "Choose from two players who will rub your chest under your clothes"
     },
     {
       "id": "7",
-      "fantText": "Put some jam on your middle fingers. You are blindfolded. all players of the opposite sex are standing up and two of them lick your fingers for 30 seconds. Guess which player is on which side. If you fail to guess, take off one piece of clothing per each player you were unable to identify"
+      "fantText": "You and the player of the opposite sex to your left strip off all your clothes, including your underwear, and have a pillow fight for a minute. If the pillow tears during the battle, you will have to orally please the owners of the house for three minutes. If one of you is the master, please your partner"
     },
     {
       "id": "8",
-      "fantText": "Lick the area around the belly button of the player of the opposite sex to your right"
+      "fantText": "Kiss any other player of your choice - except your partner - so that your tongue gets into his / her mouth, and he/she sucks it gently.\nDo this for 30 seconds"
     },
     {
       "id": "9",
-      "fantText": "Together with the player of the opposite sex to your right, take an ice cube and place it tight between your bare bellies. Rub against each other, trying to melt the ice cube for 30 seconds"
+      "fantText": "Choose any number of players who will rub your chest for a minute. They decide whether to take off your clothing, including underwear, or not."
     },
     {
       "id": "10",
-      "fantText": "Ask each player one sexual question that needs to be answered honestly. Player who refuses to answer takes off one piece of clothing. If you can't come up with enough questions for everyone - each player who was left out removes one piece of clothing from you "
+      "fantText": "Stand behind a player of the opposite sex. Massage his / her body for 2 minutes, starting from the neck, then shoulders, chest, and so on. If your efforts are appreciated, you will receive exactly the same massage at the end"
     },
     {
       "id": "11",
-      "fantText": "Get back one piece of clothing if you have masturbated in the workplace and have a story to tell about it. \nIf you haven't or don't want to share the story - take off two pieces of clothing"
+      "fantText": "Guy - ask the girl on the right to take off her panties and sit on your face - stay like that for 30 seconds.\nGirl - you can choose another girl who will do the same to you, or sit on the face of the guy to your left "
     },
     {
       "id": "12",
-      "fantText": "Honestly answer a question - have you ever been to a public nude beach? If not - take off one piece of clothing. If you have, and you want to share your experience from the first visit - get a one-time protection card, allowing you to skip taking off your clothes next time you're required to do so"
+      "fantText": "Choose any two players - three of you will kiss and make out for 30 seconds"
     },
     {
       "id": "13",
-      "fantText": "The player of the opposite sex on your left brings a towel and uses it as a screen to shield you from other players. Strip down completely, including your underwear, while throwing the removed clothes at other players. Everyone you hit should take off one piece of clothing. At the end of the round - get all the items removed in this round back"
+      "fantText": "Kissing fest: The player to your left sits on a chair in front of you. Start kissing them on the lips, gradually go down, kissing their whole body. Linger on their chest for a while, then get down to their stomach and even lower. If they liked it, you can continue"
     },
     {
       "id": "14",
-      "fantText": "Name three movies starring Arnold Schwarzenegger. If you can name another two - get back the piece of clothing. If you can't name three, take off one piece of clothing."
+      "fantText": "Choose any player - sit him/her on a chair in front of you, kneel down. Kiss and stroke gently on the inside of his/her thighs, slowly approaching the intimate area. Carry on until they stop you"
     },
     {
       "id": "15",
-      "fantText": "Kiss players of the opposite sex to the left and right from you - you pick where to kiss them"
+      "fantText": "Get on all fours, turn your back on everyone. Player of the opposite sex to your right lift your dress / lower your pants, and remove your underwear. Using a whip, a stack or just hands he/she must spank you for 30 seconds"
     },
     {
       "id": "16",
-      "fantText": "All players, except you, must take off the bottom part of their outerwear and twerk for a minute. \nThey can get their bottoms back after they're done"
+      "fantText": "For 30 seconds - touch and caress the body of any other player of your choice - except for your partner's. You can touch their body under their clothes, or ask them to be naked - it's up to you"
     },
     {
       "id": "17",
-      "fantText": "Ask hosts to give you a condom - put it on a banana or a cucumber.\nIf there is no condom in the house, the hosts take off one piece of clothing each "
+      "fantText": "Stand in the middle of the room. Player of the opposite sex to your left slowly removes all of your clothing, including your underwear. The player to the right is trying to cover your intimate areas with his/her hands"
     },
     {
       "id": "18",
-      "fantText": "Go to another room, take off your panties - then come back and give them to any player for 3 rounds. After you get your panties back - you can also get back one more piece of clothing if it was previously removed"
+      "fantText": "If you have an intimate photo of yourself on your phone, show it to all the players of the opposite sex.\nIf there is no photo, or you refuse to show it, all the players of the opposite sex come up with one sexual \"punishment\" for you "
     },
     {
       "id": "19",
-      "fantText": "Take off all your clothes (without leaving the room) and put it back on inside out. Stay like this until the end of the game."
+      "fantText": "Blindfolded, try to guess the player who will kiss and suck your nipples for 20 seconds"
     },
     {
       "id": "20",
-      "fantText": "Whisper something very sexual in the ear of a player of the opposite sex on your right. Nobody must hear - it has to stay between you two. Then very sensually lick and suck on his / her earlobe for 10 seconds"
+      "fantText": "Ask the hostess to sit on a chair in front of everyone, and spread her legs to demonstrate her favorite sex toy in action - for one minute.\nIf there is no toy, the hostess can choose any guy or girl, who will have to help her with her fingers and tongue"
     },
     {
       "id": "21",
-      "fantText": "Tell us about your last purchase from a sex shop. If you have never bought anything from a sex shop, take off one piece of clothing"
+      "fantText": "Girl - take off the upper part of the clothes, including the bra, the guy - take off the lower part of the clothes, including the underpants\nJump in place for 5 times "
     },
     {
       "id": "22",
-      "fantText": "Protection card - You can skip taking off your clothes once, if the card requires so. Draw another card instead"
+      "fantText": "Take off your clothes (including underwear) - smear your nipples with cream, jam or chocolate - let any two players of your choice lick them off your nipples for 30 seconds"
     },
     {
       "id": "23",
-      "fantText": "Starting with the phrase \"Never have I ever ...\", name 5 things that you have never done. If there is at least one thing among them that all the players did except you, get back one piece of clothing."
+      "fantText": "Ask the hostess to show everyone her sexiest underwear. Let her put it on and slowly dance to the music. She can choose any other player - a girl or a guy who will help her gradually get rid of her clothes"
     },
     {
       "id": "24",
-      "fantText": "Show everyone what color your underwear is. If any of the players have this color in any peace of their clothes, he/she must remove one piece of clothes each"
+      "fantText": "Remove all clothing from the player of the opposite sex to the left, including underwear.\nMassage his/her feet for a minute using aromatic oil"
     },
     {
       "id": "25",
-      "fantText": "Have a competition with any player of the opposite sex of your choosing - who strips to underwear faster. \nThe winner gets back one piece of clothing or receives a one-time protection card, allowing him/her to skip taking off a piece of clothing if he/she is required to do so"
+      "fantText": "If you or your partner have your intimate photo on your phone, show it to all the players.\nIf there is no photo, or you refuse to show it, you have to arrange a small intimate photo session. You can choose any other player who will help you with this task"
     },
     {
       "id": "26",
-      "fantText": "Perform a dance of a wild African tribe for 1 minute, taking off all your outerwear. Player on your left chooses the right music for you. When finished, return all the clothes removed in this round + one more item"
+      "fantText": "Use one hand to gently touch your intimate area, and the other hand to touch the intimate area of the opposite sex player to your right - for 10 seconds"
     },
     {
       "id": "27",
-      "fantText": "Give 5 reasons for masturbating with your partner. As a sign of encouragement for your emancipation - get a one-time protection card, allowing you to skip taking off one piece of your clothing if you are required to do so. If you fail to provide 5 proper reasons, take off one piece of clothing"
+      "fantText": "Girl - with the help of a banana, cucumber or a bottle - show how you perform oral sex. \nGuy - put a phallic object between your legs and choose any girl who will demonstrate her oral sex skills for 30 seconds"
     },
     {
       "id": "28",
-      "fantText": "Use this protection card to skip taking off a piece of your clothes once. When you use this card - the player on your right will take off one piece of clothing instead of you"
+      "fantText": "Remove all clothing from the opposite sex player to the left, including underwear.\nMassage his / her butt for a minute using aromatic oil or body lotion"
     },
     {
       "id": "29",
-      "fantText": "Protection card - You can \"pardon\" any other player once - he/she may skip taking off one piece of clothes the next time he/she is required to do so. Can't be used on yourself"
+      "fantText": "Kiss and make out with two players of the opposite sex - to the right and left of you - for 15 seconds each"
     },
     {
       "id": "30",
-      "fantText": "If you are a guest - give a kiss on the lips to the host of the opposite sex.\nIf you are a host - give a kiss on the lips to the guest of the opposite sex on your right\n"
+      "fantText": "Dance a striptease for the opposite sex player to your left, slowly removing your clothes to the music.\nHe or she should help you take off your underwear"
     },
     {
       "id": "31",
-      "fantText": "All players of the opposite sex must remove one piece of clothing each"
+      "fantText": "Lie down on the couch and let someone blindfold you.\nThree other players must massage you for 2 minutes - relax and let them do anything to you. \nThey can take off any clothes, put on oil, touch you anywhere they like"
     },
     {
       "id": "32",
-      "fantText": "Choose any player to draw a new card. You will carry out the task of the newly drawn together. The execution must be identical"
+      "fantText": "Get on all fours, turn your back to everyone. \nThe opposite sex player to your right lifts your dress / lowers your pants, and removes your panties. \nSpanking gently, covers your butt with kisses for 30 seconds"
     },
     {
       "id": "33",
-      "fantText": "Choose three players who must pass each other a piece of fruit, from mouth to mouth"
+      "fantText": "Choose a couple of players - take as many pieces of clothing off them as you like.\nMake the most sexual human sculpture out of them \n"
     },
     {
       "id": "34",
-      "fantText": "Tell me about one of your epic failures that you felt ashamed of. If you can't, or the failure is not considered epic enough, take off one piece of clothing"
+      "fantText": "Dance belly dance using oriental music as background. In the process, take off all your clothes, including your underwear. Don't rush - you have two minutes to dance"
     },
     {
       "id": "35",
-      "fantText": "Ask a player of the opposite sex to your right to lay down with their back up and give him/her a back massage for a minute. To do this, take off one piece of clothes from him/her for one round, with your own hands"
+      "fantText": "Remove all clothing from the player of the opposite sex to your left, including underwear.\nMassage his/her chest or breasts for 30 seconds using aromatic oil "
     },
     {
       "id": "36",
-      "fantText": "Walk around the room like a model on the catwalk, and pose to the music of Right Said Fred - I'm Too Sexy (for a minute). In the process, take off one piece of clothing and swing it over your head. In the end, get back a piece of previously removed clothing"
+      "fantText": "Strip completely, including your underwear. Slowly pour champagne or some other delicious drink on yourself, let any two players of your choice lick the drink from your body for 30 seconds"
     },
     {
       "id": "37",
-      "fantText": "Take off the bottom part of your outwear, down to your panties, turn your back to the player of the opposite sex to your left - let him/her spank your butt for 3 times. Then switch roles and spank his/her butt for 3 times"
+      "fantText": "Take off the upper piece of clothes from the player to your left - run a piece of ice over their nipples for 30 seconds.\nPeriodically suck them with your lips and tongue so it won't be too cold"
     },
     {
       "id": "38",
-      "fantText": "Name five bands or musicians whose popularity peaked in the 1970s. If you name three more, get a one-time protection card from taking off your clothes. If you can't even name five, take off one piece of clothing"
+      "fantText": "Girl - massage your own breasts for 30 seconds, in the clothes you are currently wearing. Guy - Stroke your dick in the same way for 30 seconds"
     },
     {
       "id": "39",
-      "fantText": "Let each of the players praise you and give you compliments.                        \nThey cannot repeat themselves. In the end, you decide who gave you the best compliment - that player can get back one piece of previously removed clothes"
+      "fantText": "Lick the nipples of a player to your right for 30 seconds.\nDo not forget to bite them gently from time to time"
     },
     {
       "id": "40",
-      "fantText": "If you are wearing pants or a dress - take them off for one round.\nTurn around and try to write the name of the player in front of you in the air, using your butt"
+      "fantText": "All girls sit on chairs in the middle of the room, with their backs to each other. They are blindfolded and the guys take off their pants, including their underwear, and walk around the girls until one of them says stop. Girls must guess who's in front of them by touching them wherever they want"
     },
     {
       "id": "41",
-      "fantText": "Answer this question honestly: have you ever had sex with someone who's more than 10 years older than you? \nIf not, take off one piece of clothing. If you have, and you want to share the story - you will get back one piece of clothing after you do so, but only if other players find your story interesting enough"
+      "fantText": "If your partner is present, please him/her with oral sex for two minutes in front of everyone. \nIf a girl gets pleased, she also chooses any other girl or guy who will gently rub her breasts in the process"
     },
     {
       "id": "42",
-      "fantText": "Answer this question honestly: have you ever sent someone your shower nudes? \nIf not - take off one piece of clothing. If you have, and you want to share the story - you can get back one piece of clothing. You can get back two pieces of clothing if you'll show the pic to all other players"
+      "fantText": "If your partner is present - remove their top to show everyone their bare chest/breasts. Lick and bite their nipples a few times"
     },
     {
       "id": "43",
-      "fantText": "Become a \"blanket\"  for one round - lie down on the couch with player of the opposite sex on your right, and warm him/her up for a minute"
+      "fantText": "Put the opposite sex player to your right on the couch, take off all their clothes and put lotion or a scented oil all over his/her body"
     },
     {
       "id": "44",
-      "fantText": "Answer this question honestly: which genre of porn do you like best. If you don't want to tell - take off one piece of clothing"
+      "fantText": "Player of the opposite sex to your right must stand with their back to you, putting their arms against the wall.\nYou play the role of a police officer - you may look for drugs under the suspect's clothes. Don't forget to look under their underwear"
     },
     {
       "id": "45",
-      "fantText": "Protection card - you don't have to take off your clothes if the card requires so. You still have to complete the task, if required"
+      "fantText": "Ask the hosts a sheet - take off all your clothes, including underwear - wrap yourself in a sheet and pose as a Greek statue - freeze in a pretentious pose. The players of the opposite sex to your left and right have 15 seconds to pose the statue as they see fit"
     },
     {
       "id": "46",
-      "fantText": "Name two members of the X-Men team. If you can name another one - get back the piece of clothing. If you can't name two, take off one piece of clothing "
+      "fantText": "Lie back down on the couch - let someone put a blindfold over your eyes. Players of the opposite sex to your left and to your right should give you a full body massage for 2 minutes - relax and let them do everything to you. The fantasy of masseurs should not be limited by anything"
     },
     {
       "id": "47",
-      "fantText": "Bare the leg of the opposite sex player on your right - take off his/her pants or pantyhose for one round. The player of your gender on your left must kiss it for 15 seconds."
+      "fantText": "The player on your right chooses any other player, who you must passionately kiss for 30 seconds"
     },
     {
       "id": "48",
-      "fantText": "Go to the bathroom, get absolutely naked and wrap yourself in a towel. Make three circles around the room without holding the towel with your hands. Then dress back and take one piece of clothing you previously removed"
+      "fantText": "Girl - take off all your clothes, including underwear, and sit on the lap of any player for 3 rounds. Take off of their clothes too. \nGuy - choose any girl who will sit on your lap for 3 rounds. Both also must take of all of their clothes"
     },
     {
       "id": "49",
-      "fantText": "All players of your gender, except you, should take off one piece of clothing"
+      "fantText": "All players demonstrate their intimate areas. Players who do not have hair there, for two minutes become sex slaves of every player who has hair in their intimate areas, fulfill any of their desires"
     },
     {
       "id": "50",
-      "fantText": "Sing any children's song, using any other player's belly as a drum - taking off all of his/her outerwear for one round"
+      "fantText": "The player to your right chooses any other player that you must give a good spanking to, while removing all of his / her clothing, including underwear. The player to your right decides how many spanks the unfortunate victim will receive"
     },
     {
       "id": "51",
-      "fantText": "You and the player of the opposite sex on your right, take off your outerwear down to your panties - turn your back to each other and touch butts for one minute, making synchronous circular movements"
+      "fantText": "Do a slow dance with a player of the opposite sex to your right.\nDuring the dance, slowly begin to take off your partner's clothes, kissing him/her on the exposed area of ​​the body. Keep going until they stop you. "
     },
     {
       "id": "52",
-      "fantText": "You and the player of the opposite sex on your right, should walk into the bathroom together, undress completely, and return wrapped in towels. You have 45 seconds to do this. If you fail to do this in time - two other players come up with some sexual punishments for both of you"
-    },
-    {
-      "id": "53",
-      "fantText": "Show your favorite sex position with your partner. If your partner is not present among the players, choose any other player. If you, or another player refuse to participate, take off one piece of clothing each"
-    },
-    {
-      "id": "54",
-      "fantText": "Take off a lower part of your outwear. If you don't have it on - player on your left does this for you. If he/she doesn't have it on as well - his/her neighbor on the left. If no one is wearing the lower part of outwear, only you Get back one piece of previously removed clothes"
-    },
-    {
-      "id": "55",
-      "fantText": "All players who have ever gone \"commando\" to a party (not wearing underwear) - let them raise their hands and share the story. Players who has never done it - must remove one piece of clothing each"
-    },
-    {
-      "id": "56",
-      "fantText": "Feed a piece of lemon to the player on your left. If he/she makes a sour face, it will cost him/her one piece of clothing"
+      "fantText": "Choose any player who slowly strips off all your clothes for one round, gently stroking and nibbling on your exposed body parts. After that, do the same to the player of your choice"
     },
   ]
 )
