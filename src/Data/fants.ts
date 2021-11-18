@@ -6,7 +6,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "2",
-      "fantText": "Put red lipstick on your lips and give a passionate kiss on neck of the player of the opposite sex to your right. Make sure you leave a mark"
+      "fantText": "Put red lipstick on your lips and give a passionate kiss on the neck of the player of the opposite sex to your right. Make sure you leave a mark"
     },
     {
       "id": "3",
@@ -14,19 +14,19 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "4",
-      "fantText": "If you are wearing outerwear, take the top off for one round. \nLie on the couch and let the player of the opposite sex on your left to drip five drops of molten candle wax onto your back. For five more drops - get back one piece of clothing "
+      "fantText": "If you are wearing outerwear, take the top off for one round. \nLie on the couch and let the player of the opposite sex on your left drip five drops of molten candle wax onto your back. For five more drops - get back one piece of clothing "
     },
     {
       "id": "5",
-      "fantText": "Lie on the couch - a player of the opposite sex gives you a full body massage for three minutes. The player on your right hand decides how many items of clothing you need to take off for this round. For every piece of clothing you take off, he / she gets one removed piece of clothing back"
+      "fantText": "Lie on the couch - a player of the opposite sex gives you a full body massage for three minutes. The player on your right hand decides how many items of clothing you need to take off for this round. For every piece of clothing you take off, he/she gets one removed piece of clothing back"
     },
     {
       "id": "6",
-      "fantText": "Massage the shoulders of the player to your right for 30 seconds, after taking off his\\her outerwear with your own hands. When finished, he\\she can get back the items removed by you + one more piece of clothing if it was previosly removed"
+      "fantText": "Massage the shoulders of the player to your right for 30 seconds, after taking off his/her outerwear with your own hands. When finished, he/she can get back the items removed by you + one more piece of clothing if it was previously removed"
     },
     {
       "id": "7",
-      "fantText": "Put some jam on your middle fingers. You are blindfolded. all players of the opposite sex standing up and two of them lick your fingers for 30 seconds. Guess which player is on which side. If you fail to guess, take off one piece of clothing per each player you were unable to identify"
+      "fantText": "Put some jam on your middle fingers. You are blindfolded. all players of the opposite sex are standing up and two of them lick your fingers for 30 seconds. Guess which player is on which side. If you fail to guess, take off one piece of clothing per each player you were unable to identify"
     },
     {
       "id": "8",
@@ -34,7 +34,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "9",
-      "fantText": "Togethere with the player of the opposite sex to your right, take an ice cube and place it tight between your bare bellies. Rub againts each other, trying to melt the ice cube for 30 seconds"
+      "fantText": "Together with the player of the opposite sex to your right, take an ice cube and place it tight between your bare bellies. Rub against each other, trying to melt the ice cube for 30 seconds"
     },
     {
       "id": "10",
@@ -58,7 +58,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "15",
-      "fantText": "Kiss players of the opposite sex to the left and right frome you - you pick where to kiss them"
+      "fantText": "Kiss players of the opposite sex to the left and right from you - you pick where to kiss them"
     },
     {
       "id": "16",
@@ -74,11 +74,11 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "19",
-      "fantText": "Take off all your outwear (without leaving the room) and put it back on inside out. Stay like this until the end of the game. If you are not wearing outerwear, ask a player of the opposite sex on your left to put one piece you your removed clothing on back on you inside out"
+      "fantText": "Take off all your clothes (without leaving the room) and put it back on inside out. Stay like this until the end of the game."
     },
     {
       "id": "20",
-      "fantText": "Whisper something very sexual in the ear of a player of the opposite sex on your right. Nobody must hear - it has to stay between you two. Then very sensually lick and suck on his / her earlobe for 10 srconds"
+      "fantText": "Whisper something very sexual in the ear of a player of the opposite sex on your right. Nobody must hear - it has to stay between you two. Then very sensually lick and suck on his / her earlobe for 10 seconds"
     },
     {
       "id": "21",
@@ -102,7 +102,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "26",
-      "fantText": "Perform a dance of a wild African tribe for 1 minute, taking off all your outerwear. Player on your left chooses the right  music for you. When finished, return all the clothes removed in this round + one more item"
+      "fantText": "Perform a dance of a wild African tribe for 1 minute, taking off all your outerwear. Player on your left chooses the right music for you. When finished, return all the clothes removed in this round + one more item"
     },
     {
       "id": "27",
@@ -110,7 +110,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "28",
-      "fantText": "Use this protection card to skip taking off a piece of your clothes once. When you use this card - the player on your right will yake off one piece of clothing instead of you"
+      "fantText": "Use this protection card to skip taking off a piece of your clothes once. When you use this card - the player on your right will take off one piece of clothing instead of you"
     },
     {
       "id": "29",
@@ -134,7 +134,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "34",
-      "fantText": "Tell me about one of your epic failures that you felt ashamed of. If you can't, or the failure is not considered epic enough, take off one pieve of clothing"
+      "fantText": "Tell me about one of your epic failures that you felt ashamed of. If you can't, or the failure is not considered epic enough, take off one piece of clothing"
     },
     {
       "id": "35",
@@ -142,7 +142,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "36",
-      "fantText": "Walk around the room as a model on the catwalk, and pose to the music of Right Said Fred - I'm Too Sexy (for a minute). In the process, take off one piece of clothing and swing it over your head. At the end, get back a piece of previously removed clothing"
+      "fantText": "Walk around the room like a model on the catwalk, and pose to the music of Right Said Fred - I'm Too Sexy (for a minute). In the process, take off one piece of clothing and swing it over your head. In the end, get back a piece of previously removed clothing"
     },
     {
       "id": "37",
@@ -174,7 +174,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "44",
-      "fantText": "Answer this question honestly: which genre of porn you like best. If you don't want to tell - take off one piece of clothing"
+      "fantText": "Answer this question honestly: which genre of porn do you like best. If you don't want to tell - take off one piece of clothing"
     },
     {
       "id": "45",
@@ -194,7 +194,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "49",
-      "fantText": "All players of your gender, except you, should thake off one piece of clothing"
+      "fantText": "All players of your gender, except you, should take off one piece of clothing"
     },
     {
       "id": "50",
@@ -214,7 +214,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "54",
-      "fantText": "Take off a lower part of your outwear. If you don't have it on - player on your left does this for you. If he/she doesn't have it on as well - his/her neighbor on the left. If no one is wearing lower part of outwear, only you Get back one piece of previously removed clothes"
+      "fantText": "Take off a lower part of your outwear. If you don't have it on - player on your left does this for you. If he/she doesn't have it on as well - his/her neighbor on the left. If no one is wearing the lower part of outwear, only you Get back one piece of previously removed clothes"
     },
     {
       "id": "55",
