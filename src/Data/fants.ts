@@ -178,7 +178,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "45",
-      "fantText": "Ask the hosts a sheet - take off all your clothes, including underwear - wrap yourself in a sheet and pose as a Greek statue - freeze in a pretentious pose. The players of the opposite sex to your left and right have 15 seconds to pose the statue as they see fit"
+      "fantText": "Ask the hosts a sheet - take off all your clothes, including underwear - wrap yourself in a sheet and pose as a Greek statue - strike a pretentious pose. The players of the opposite sex to your left and right have 15 seconds to pose the statue as they see fit"
     },
     {
       "id": "46",
