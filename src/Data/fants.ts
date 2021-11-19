@@ -158,7 +158,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "40",
-      "fantText": "All girls sit on chairs in the middle of the room, with their backs to each other. They are blindfolded and the guys take off their pants, including their underwear, and walk around the girls until one of them says stop. Girls must guess who's in front of them by touching them wherever they want"
+      "fantText": "All girls sit on chairs in the middle of the room, with their backs to each other. They are blindfolded and guys take off their pants, including their underwear, and walk around the girls until one of them says stop. Girls must guess who's in front of them by touching them wherever they want"
     },
     {
       "id": "41",
