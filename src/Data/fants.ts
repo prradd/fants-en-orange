@@ -134,7 +134,7 @@ export const fantsData = Object.freeze(
     },
     {
       "id": "34",
-      "fantText": "Dance belly dance using oriental music as background. In the process, take off all your clothes, including your underwear. Don't rush - you have two minutes to dance"
+      "fantText": "Belly dance using oriental music as background. In the process, take off all your clothes, including your underwear. Don't rush - you have two minutes to dance"
     },
     {
       "id": "35",
